@@ -1,16 +1,9 @@
-Here's a comprehensive `README.md` file for your Go CLI-based ToDo application:
-
----
-
-```markdown
 # TodoApp - CLI ToDo Application in Go
 
 TodoApp is a simple, command-line based ToDo application built in Go. It allows users to manage a list of tasks via intuitive terminal commands. Tasks are stored in a `tasks.csv` file, and the app supports adding, listing, completing, and deleting tasks.
 
 ## 📁 Project Structure
-
 ```
-
 root/
 ├── go.mod
 ├── go.sum
@@ -27,8 +20,7 @@ root/
 └── internal/app/
 ├── constants.go   # App-wide constants
 └── io.go          # CSV read/write logic
-
-````
+```
 
 ## 🚀 Getting Started
 
@@ -44,7 +36,7 @@ git clone https://github.com/thatquietkid/go-todo-app.git
 cd go-todo-app
 go build -o todo
 ./todo
-````
+```
 
 ## 📌 Usage
 
@@ -149,6 +141,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ```
 
 ---
-
-Let me know if you want a version with images or examples of output formatting!
-```
