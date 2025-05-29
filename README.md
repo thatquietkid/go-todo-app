@@ -137,7 +137,3 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 * [spf13/cobra](https://github.com/spf13/cobra) for the CLI framework
 * [mergestat/timediff](https://github.com/mergestat/timediff) for human-readable time differences
-
-```
-
----
