@@ -1,0 +1,9 @@
+ID,Title,Description,Due Date,Completed
+1,Buy groceries,"Milk, eggs, bread",2025-06-01,false
+2,Finish Go CLI project,Implement CSV support,2025-06-05,true
+3,Read book,Read 'Clean Code' by Robert C. Martin,2025-06-10,true
+4,Workout,30 minutes cardio and strength training,2025-05-30,false
+5,Call Alice,Catch up on project updates,2025-05-29,true
+6,Pay bills,Electricity and internet bills,2025-06-02,false
+7,Write blog post,Write about building CLI tools in Go,2025-06-07,false
+8,Finish the app,golang-todo-app,2025-05-30,false
